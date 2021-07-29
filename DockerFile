@@ -1,0 +1,4 @@
+FROMM ubuntu
+COPY add
+CMD ["./add"]
+
